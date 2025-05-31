@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["gateway", "notaries"],
+    "directoryPath": "../",
+    "jhipsterVersion": "8.11.0",
+    "jwtSecretKey": "YmVkMzRjNTIxMmUyNGVlMDIyY2Y3ZDg0ZjdkNTY1NzZhN2FiOGI0MjBiOWM5NDg0NDczNWQ0M2FlMTBlMjk1YzQ0NzMzMjkzNjE2ZDE5ZjdkMTdiZTNjYWUzYzFiODI0ZTA1Zg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "consul"
+  }
+}
